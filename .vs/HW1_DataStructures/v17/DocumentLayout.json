@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\HW1_DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|solutionrelative:HW1_DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|solutionrelative:queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Part1Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|solutionrelative:Part1Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7CA1F2E-11ED-41E8-8E48-9AF514BF2B0C}|HW1_DataStructures.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HW1_DataStructures.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\HW1_DataStructures.cpp",
-              "RelativeDocumentMoniker": "HW1_DataStructures.cpp",
-              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\HW1_DataStructures.cpp",
-              "RelativeToolTip": "HW1_DataStructures.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Part1Tester.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Part1Tester.cpp",
+              "RelativeDocumentMoniker": "Part1Tester.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Part1Tester.cpp",
+              "RelativeToolTip": "Part1Tester.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAADgv10AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T09:13:45.787Z",
+              "WhenOpened": "2024-11-07T11:12:30.689Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Queue.h",
+              "RelativeDocumentMoniker": "Queue.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\Queue.h",
+              "RelativeToolTip": "Queue.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T09:36:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\queue.cpp",
+              "RelativeDocumentMoniker": "queue.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\HW1_DataStructures\\queue.cpp",
+              "RelativeToolTip": "queue.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T09:13:45.787Z",
+              "EditorCaption": ""
             }
           ]
         }
