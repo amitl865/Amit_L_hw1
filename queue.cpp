@@ -12,7 +12,7 @@ void initQueue(Queue* q, unsigned int size)
 
 void cleanQueue(Queue* q)
 {
-    free(q->elements); 
+    delete q->elements; 
     q->members = 0;
     q->firstInQ = 0;
 }
@@ -23,6 +23,7 @@ void enqueue(Queue* q, unsigned int newValue)
     if (isFull(q))
     {
         std::cout << "Queue out of bounds!, remove a member to add to the queue" << std::endl;
+        return;
     }
     if (!isFull(q))
     {
