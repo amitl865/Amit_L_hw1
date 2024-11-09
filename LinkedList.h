@@ -1,3 +1,6 @@
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
+
 
 struct linkedList
 {
@@ -10,6 +13,8 @@ void addLink(linkedList* ls, int value);
 
 linkedList* removeFirstLink(linkedList* ls);
 
-void removeLastLink(linkedList* ls);
+int removeLastLink(linkedList* ls);
 
 void printLinkedList(linkedList* ls);
+
+#endif

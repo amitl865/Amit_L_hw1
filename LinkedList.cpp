@@ -30,22 +30,26 @@ linkedList* removeFirstLink(linkedList* ls)
 	}
 }
 
-void removeLastLink(linkedList* ls)
+int removeLastLink(linkedList* ls)
 {
 	linkedList* cur = ls;
 	if (ls == nullptr || ls->next == nullptr)
 	{
+		int val = ls->val;
 		delete ls;
-		return;
+		ls = nullptr;
+		return val;
 	}
 
-	while (cur->next != nullptr && cur->next->next != nullptr)
+	while (cur->next->next != nullptr)
 	{
 		cur = cur->next;
 	}
 
+	int val = cur->next->val;
 	delete cur->next; 
 	cur->next = nullptr;
+	return val;
 }
 
 void printLinkedList(linkedList* ls)
